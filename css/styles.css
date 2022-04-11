@@ -22,17 +22,11 @@ header {
 
 .navbar {
 	background-color: #292929;
-	font-family: AEH
+
 
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
-}
-.bg-darker {
-}
-.fw-dark {
-}
-.center {
 }
