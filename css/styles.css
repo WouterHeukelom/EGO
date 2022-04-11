@@ -13,7 +13,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #FFFFFF;
+	background-color: #29292929;
 	font-family: montserrat, sans-serif;
 	color: #000000
 }
@@ -21,7 +21,7 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #7D7D7D;
+	background-color: #292929;
 	font-family: AEH
 
 
@@ -33,4 +33,6 @@ footer a:hover {
 .bg-darker {
 }
 .fw-dark {
+}
+.center {
 }
