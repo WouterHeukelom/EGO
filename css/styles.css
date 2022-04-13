@@ -27,6 +27,6 @@ header {
 
 /* Effect on social media buttons */
 
-footer a:hover {
-	opacity: .5;
-}
+footer a: hover 
+	opacity: .5;	
+} 
